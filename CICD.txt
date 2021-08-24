@@ -1,0 +1,54 @@
+0: cd ..                                     │
+                                                            │1: cd git                                    │
+The most similar command is                                 │2: git comit -am "testing1"                  │
+        merge                                               │3: git commit -am "testing1"                 │
+                                                            │4: git push origin master                    │
+D:\Webfolder\repository>git marge add-cuonjav               │5: git servison                              │
+git: 'marge' is not a git command. See 'git --help'.        │6: git --version                             │
+                                                            │7: git status                                │
+The most similar command is                                 │8: git --status                              │
+        merge                                               │9: cd repository                             │
+                                                            │10: cd ..                                    │
+D:\Webfolder\repository>git merge add-cuonjav               │11: cd repository                            │
+Already up to date.                                         │12: git status                               │
+                                                            │13: git add test.txt                         │
+D:\Webfolder\repository>                                    │14: git add test1.txt                        │
+                                                            │15: git status                               │
+                                                            │16: git commit -m "add file test1.txt"       │
+                                                            │17: git log                                  │
+                                                            │18: git push -u origin master                │
+                                                            │19: git add .
+19: git add .                                │
+The most similar command is                                 │20: git commit -m " thay dnoi dung"          │
+        merge                                               │21: gp                                       │
+                                                            │22: git commit -m "test1.txt"                │
+D:\Webfolder\repository>git marge add-cuonjav               │23: git push                                 │
+git: 'marge' is not a git command. See 'git --help'.        │24: git pull                                 │
+                                                            │25: git push                                 │
+The most similar command is                                 │26: git clone https://github.com/yhnh/web.git│
+        merge                                               │27: history                                  │
+                                                            │28: hit branch add-Cuongnn                   │
+D:\Webfolder\repository>git merge add-cuonjav               │29: git branch add-Cuongnn                   │
+Already up to date.                                         │30: git branch add-Cuonjav                   │
+                                                            │31: git checkout ad-cuongjav                 │
+D:\Webfolder\repository>                                    │32: git checkout add-cuongjav                │
+                                                            │33: git checkout add-cuongnn                 │
+                                                            │34: git brach                                │
+                                                            │35: git branch                               │
+                                                            │36: git checkout add-cuongjav                │
+                                                            │37: git checkout add-cuonjav
+
+36: git checkout add-cuongjav                │
+                                                            │37: git checkout add-cuonjav                 │
+The most similar command is                                 │38: git checkout master                      │
+        merge                                               │39: git checkout cuonjav                     │
+                                                            │40: git checkout add-cuonjav                 │
+D:\Webfolder\repository>git merge add-cuonjav               │41: git push                                 │
+Already up to date.                                         │42: git checkout master                      │
+                                                            │43: git push                                 │
+D:\Webfolder\repository>                                    │44: git branch                               │
+                                                            │45: git checkout master                      │
+                                                            │46: get marger add-cuonjav                   │
+                                                            │47: git marger add-cuonjav                   │
+                                                            │48: git marge add-cuonjav                    │
+                                                            │49: git merge add-cuonjav
